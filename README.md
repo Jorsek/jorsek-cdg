@@ -1,2 +1,3 @@
 # jorsek-cdg
-Jorsek's Content Development Guide
+
+Jorsek's Technical Content Development Guide
